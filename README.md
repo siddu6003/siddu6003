@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: Loves to solve problems on leetcode and building web apps using React and other frameworks in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ybvss-siddhartha/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-siddu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ybvss-siddhartha/)
 
 ---
 
