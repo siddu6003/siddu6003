@@ -31,13 +31,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m Good at Data Structures and Algorithms , Loves Problem Solving B.Tech CS Grad from Vellore Institute Of Technology.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  Searching for prominent roles in the Software Industry.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Loves to solve problems on leetcode and building web apps using React and other frameworks in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ybvss-siddhartha/)
 
 ---
 
